@@ -62,3 +62,8 @@ However, the P/E ratio was goling in the opposite way from 2018/1/2 to 2018/10/1
 As a result, we can conservatively assume that the current P/E ratio is in the relatively low position comparing to the past six month.
 ![image1](https://res.cloudinary.com/dbvscfzjb/image/upload/v1539568206/pe_rt_6m.png)
 ![image2](https://res.cloudinary.com/dbvscfzjb/image/upload/v1539568204/fig3.png)
+
+
+### Reference  
+[1] Liem, Pei Fun, and Sautma Ronni Basana. "Price Earnings Ratio and Stock Return Analysis (Evidence from Liquidity 45 Stocks Listed in Indonesia Stock Exchange)." Jurnal Manajemen dan Kewirausahaan 14.1 (2012): 7-12.  
+[2] Norbert Keimling. “PREDICTING STOCK MARKET RETURNS USING THE SHILLER CAPE.” StarCapital Research, January 2016.
